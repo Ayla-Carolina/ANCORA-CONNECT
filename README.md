@@ -7,3 +7,6 @@ Nós, alunos e projetistas, tivemos a liberdade para explorar ferramentar e recu
 
 Foi apresentado um vídeo Pitch, ponto essencial para o sucesso do projeto, que foi entregue juntamente ao término do Challenge. 
 **Link Vídeo Pitch: https://youtu.be/ZxbXRGlunTE**
+
+Colaborei diretamente na apresentação do vídeo Pitch e no desenvolvimento do Front-end. 
+
