@@ -10,3 +10,4 @@ Foi apresentado um vídeo Pitch, ponto essencial para o sucesso do projeto, que 
 
 Colaborei diretamente na apresentação do vídeo Pitch e no desenvolvimento do Front-end. 
 
+![Captura de tela 2024-09-17 084942](https://github.com/user-attachments/assets/3abf252d-fefc-4419-bd5f-f741923ff106)
